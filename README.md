@@ -1,9 +1,9 @@
 ## WEBSITE PROFILE
 
-# TAMPILAN BAGIAN
+# TAMPILAN BAGIAN HOME
 ![Layout](https://files.catbox.moe/zcfneg.jpg)
 
-# TAMPILAN BAGIAN
+# TAMPILAN BAGIAN PROGEST
 ![Layout](https://files.catbox.moe/1iv68w.jpg)
 
 # TAMPILAN BAGIAN
